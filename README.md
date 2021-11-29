@@ -5,6 +5,8 @@ https://github.com/chinnonsantos/sql-paises-estados-cidades/tree/master/PostgreS
 
 Foram utilizados:  
 
-
+- Spring - Data JPA, WEB, DevTools, Lombok;  
+- Postgresql;  
+- hibernate-types.
 
 
